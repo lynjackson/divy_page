@@ -1,7 +1,7 @@
 import React from 'react'
 import '../styles/bill/bill.css'
 // import '../styles/lyn/portfolio.css'
-import billLogo from '../assets/icons/bill_logo.png';
+import billLogo from '../assets/icons/divy_logo.png';
 
 const BilliOS =()=>{
   return(
